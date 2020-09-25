@@ -9,4 +9,5 @@ def oxford_comma(array)
   else
     array.join(", ")
   end
+  array.join(", ")
 end
